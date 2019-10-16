@@ -1,0 +1,64 @@
+body{
+    background-image: url("img/tlo.png");
+}
+
+#logo{
+    font-family: 'Fredericka the Great', cursive;
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#container{
+    width: 1000px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:20px;
+}
+#nav{
+    font-size:20px;
+    width: 170px;
+    height: 300px;
+    float: left;
+}
+
+.option{
+    text-align: center;
+    border-bottom: 1px dotted rgb(44, 43, 43);
+    border-right: 1px dotted rgb(44, 43, 43);
+    width: 170px;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Itim', cursive;
+}
+
+#content{
+    float: left;
+    background-image: url("img/tlo2.png");
+    margin: 50px;
+    width: 670px;
+    font-family: 'Itim', cursive;
+    padding: 30px;
+    text-align: justify;
+
+}
+
+h1{
+    padding: 0;
+}
+
+
+
+/*
+font-family: 'Kalam', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Caveat Brush', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Itim', cursive;
+*/

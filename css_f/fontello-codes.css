@@ -1,0 +1,12 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-search:before { content: '\e801'; } /* '' */
+.icon-search-1:before { content: '\e802'; } /* '' */
+.icon-ok:before { content: '\e803'; } /* '' */
+.icon-plus:before { content: '\e804'; } /* '' */
+.icon-help:before { content: '\e805'; } /* '' */
+.icon-user-md:before { content: '\f0f0'; } /* '' */
+.icon-stethoscope:before { content: '\f0f1'; } /* '' */
+.icon-ambulance:before { content: '\f0f9'; } /* '' */
+.icon-medkit:before { content: '\f0fa'; } /* '' */
+.icon-heartbeat:before { content: '\f21e'; } /* '' */
